@@ -25,10 +25,10 @@ but all file paths are shown in code, files are on 1 April 2011 of COSMIC missio
 ## Requires:
   * Python 3.7
   * CDAAC files (netcdf file including podTec and ionPrf)
-  * Python libraries: (   netCDF4
-                           numpy
-                           math
-                           matplotlib
+  * Python libraries: (   netCDF4,
+                           numpy,
+                           math,
+                           matplotlib,
                            basemap      )
                            
                            
