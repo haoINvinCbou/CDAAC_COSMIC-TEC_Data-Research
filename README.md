@@ -1,6 +1,6 @@
 # CDAAC_COSMIC-TEC_Data-Research
 
-Python codes based on Jupyter Notebook is used to process CDAAC COSMIC netcdf files, for Research on TEC.  
+Python codes based on Jupyter Notebook is used to process CDAAC COSMIC netCDF files, for Research on TEC.  
 Part of the code explanation is in Chinese, but the code in all is very easy and seperated into parts thanks to the Jupyter feature.
 
 
